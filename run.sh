@@ -1,1 +1,1 @@
-docker run -d -p 8080:8080 --name my-hsbc-trans-app my-hsbc-trans-app
+docker run -d -p 8080:8080 --name my-hsbc-trans-app1 my-hsbc-trans-app:1.0
